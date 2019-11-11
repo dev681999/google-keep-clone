@@ -1,0 +1,8 @@
+{
+	"addr": ":8070",
+	"dbUrl": "localhost:27017",
+	"dbUser": "",
+	"dbPass": "",
+	"dbName": "google-keep-clone-test",
+	"jwt": "62695fbf-f9c6-4be7-b3f3-8cc10c06e7d5"
+}
